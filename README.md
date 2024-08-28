@@ -65,7 +65,7 @@ The projects are organized by week, reflecting my progress through the course:
 - **[Cookie Jar](./Week%208/jar):** Manages a virtual cookie jar, with options to add, remove, and count cookies, demonstrating file I/O and data structures.
 - **[CS50 Shirtificate](./Week%208/shirtificate):** A fun program that generates a personalized certificate for completing CS50, integrating text processing and file handling.
 
-### Final Project: TuneScribe
+### Final Project: TuneScribe.py
 - **[TuneScribe.py](./Week%209):** A unique program that generates a Spotify playlist where the song titles form a sentence based on user input, showcasing everything learned in the course, from APIs to data manipulation.
 
 ## Disclaimer
