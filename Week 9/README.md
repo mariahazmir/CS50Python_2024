@@ -1,5 +1,4 @@
 # TuneScribe.py
-#### Video Demo:    [Insert Link Here]
 
 ## Project Overview
 
